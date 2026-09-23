@@ -23,3 +23,20 @@ Hemos colaborado en el proyecto:
 | versión | Modificación | Propietario de la modificación |
 | --- | -- | --- |
 | 1.0 | Creación del readme | Samuel Albarrán |
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Que buen Readme :joy:
+
+```
+{
+  "firstName": "Samuel",
+  "lastName": "Albarran",
+  "age": 20
+}
+
+Esto es una frase para una nota [^1]
+
+[^1]: Esto es la nota
