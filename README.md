@@ -21,5 +21,5 @@ Hemos colaborado en el proyecto:
 
 
 | versión | Modificación | Propietario de la modificación |
-| --- | | -- | | --- |
+| --- | -- | --- |
 | 1.0 | Creación del readme | Samuel Albarrán |
