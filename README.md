@@ -40,3 +40,9 @@ Que buen Readme :joy:
 Entornos de Desarrollo [^1]
 
 [^1]: Lugar para trabajar guardar información para la Programación
+
+
+---
+---
+---
+Modificación realizada en Windows.
