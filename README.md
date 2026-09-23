@@ -12,7 +12,14 @@ Hemos colaborado en el proyecto:
 - Pedro
 - Lucas
 - Ana
+
 Ésta modificación nos sirve para aprender Markdown que por ejemplo los titulos `<H1> <\H1>` los coloca con una almohadilla.
 
+---
 
-[Gregorio Fernández](https://www.example.com)
+[Gregorio Fernández](https://www.gregoriofer.com)
+
+
+| versión | Modificación | Propietario de la modificación |
+| --- | | -- | | --- |
+| 1.0 | Creación del readme | Samuel Albarrán |
