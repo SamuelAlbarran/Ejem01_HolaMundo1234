@@ -36,7 +36,7 @@ Que buen Readme :joy:
   "lastName": "Albarran",
   "age": 20
 }
-
+```
 Esto es una frase para una nota [^1]
 
 [^1]: Esto es la nota
