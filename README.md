@@ -24,9 +24,9 @@ Hemos colaborado en el proyecto:
 | --- | -- | --- |
 | 1.0 | Creación del readme | Samuel Albarrán |
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Hacer tablas
+- [ ] Hacer una voltereta
+- [ ] Comer una pizza
 
 Que buen Readme :joy:
 
@@ -37,6 +37,6 @@ Que buen Readme :joy:
   "age": 20
 }
 ```
-Esto es una frase para una nota [^1]
+Entornos de Desarrollo [^1]
 
-[^1]: Esto es la nota
+[^1]: Lugar para trabajar guardar información para la Programación
